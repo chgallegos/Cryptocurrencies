@@ -1,3 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+crypto_data.csv
 *.gem
 *.rbc
 /.config
